@@ -1,0 +1,7 @@
+@import "{{ site.theme }}";
+
+
+/* Remove the "<header>" section which contains "view on github" ~ https://github.com/pages-themes/hacker/issues/14*/
+header {
+  display: none;
+}
