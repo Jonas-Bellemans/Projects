@@ -45,6 +45,9 @@ Our solution proposes an local webapplication (running on their server) which gi
 
 ### Screenshots
 
-![test gif](/assets/gifs/dummy.gif)
-![test gif](/assets/gifs/vbbeton/vbbeton-expediteur-planning.gif)
+Overzicht planning chauffeurs van alle werven:
+![Expediteurscapaciteitsplanning](/assets/gifs/vbbeton/vbbeton-expediteurs-capaciteit-planning.gif)
+
+Overzicht planning van chauffeurs:
+![Expediteurplanning](/assets/gifs/vbbeton/vbbeton-expediteur-planning.gif)
 
