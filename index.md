@@ -9,9 +9,6 @@ Welcome to my web portfolio to showcase projects and skills in better manner. <b
 - Dates are formatted as: "DD-MM-YYYY" or "DD/MM/YYYY"
 
 <small>`Last updated: 11/10/2020`</small>
-<small>`Last updated: 11/10/2020`</small>
-{{ page.last_modified_at }}
-piep
 
 
 # Table of contents
@@ -47,3 +44,7 @@ The main problem is that scheduling still happens the "oldskool" way. 1 guy plan
 Our solution proposes an local webapplication (running on their server) which gives a clear visualisation of the construction sites. This allows to customer the mad better estimates of the spread of the constructions sites, the number of drivers they load to supply the construction sites, ...
 
 ### Screenshots
+
+![test gif](assets/gifs/dummy.gif)
+![test gif](/assets/gifs/dummy.gif)
+
