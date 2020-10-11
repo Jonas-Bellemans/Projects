@@ -39,12 +39,12 @@ This is my most recent project (as time of writing this: 11/10/2020). <br/>
 ### Background
 This company delivers concrete at construction sites (up to 50 construction sites/day).
 
-The main problem is that scheduling still happens the "oldskool" way. 1 guy plans everything out the day before. The next day the schedule completely changes and alot of "à la minute" decisions need to be made. <br/>
+The main problem is that scheduling still happens the "oldskool" way. 1 guy schedule everything the day before. The next day the schedule completely changes and alot of "à la minute" decisions need to be made by experience. <br/>
 
-Our solution proposes an local webapplication (running on their server) which gives a clear visualisation of the construction sites. This allows to customer the mad better estimates of the spread of the constructions sites, the number of drivers they load to supply the construction sites, ...
+Our solution proposes an local webapplication (running on their server) which gives a clear visualisation of the construction sites. This allows to customer to give better estimates of the scheduling of the constructions sites, the scheduling of the concurrent number of drivers which need to supply the construction sites, ...
 
 ### Screenshots
 
-![test gif](assets/gifs/dummy.gif)
 ![test gif](/assets/gifs/dummy.gif)
+![test gif](/assets/gifs/vbbeton/vbbeton-expediteur-planning.gif)
 
