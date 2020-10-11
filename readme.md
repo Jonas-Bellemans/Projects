@@ -2,7 +2,20 @@
 Github pages will look for an index.html or index.md as root file to showcase on the https://jonas-bellemans.github.io/portfolio/ static website.
 
 
-## Default generated 'github page readme.md
+## Jekyll custom website
+Basic version comes from https://github.com/maltzj/maltzj.github.io
+
+Installation
+- Install Jekyll: 
+> gem install jekyll
+
+- Run the jekyll server: 
+> jekyll serve
+
+You should have a server up and running locally at http://localhost:4000.
+
+
+## Default generated 'github page' readme.md/index.md
 You can use the [editor on GitHub](https://github.com/Jonas-Bellemans/Projects/edit/docs/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
