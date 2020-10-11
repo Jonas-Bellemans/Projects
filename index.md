@@ -45,7 +45,7 @@ This company delivers concrete at construction sites (up to 50 construction site
 The main problem is that scheduling still happens the "oldskool" way. 1 guy schedules everything the day before for the next day. The next day the schedule completely changes due last minute changes and extra deliveries. This causes alot of "à la minute" decisions to be made. Those decisions are now made based on experience. <br/>
 
 Our solution proposes an webapplication (running on their server) which gives a clear visualisation of the construction sites. This allows the customer to better understand it's 
-schedule of the constructions site deliveries, the scheduling of the concurrent number of drivers which need to supply the construction sites, ... . In the end, the customer can make better estimates and decisions.  
+schedule of the constructions site deliveries, the scheduling of the concurrent number of drivers which need to supply the construction sites with concrete, ... . In the end, our websites leverages the customer to make better estimates and decisions.  
 
 ### Screenshots
 
