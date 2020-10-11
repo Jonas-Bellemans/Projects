@@ -3,10 +3,17 @@
 # Hi i'm 'Jonas Bellemans' 👋
 Welcome to my web portfolio to showcase my projects and skills. <br/> Look at this portfolio as an overview of my 'work experience'.
 
+<object data="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 **NOTES**: 
 - Everything written below will be in english in stead of dutch as it's my second nature as a software engineer. <br/>
 - Currently uses markdown &amp; jekyll to generate website layout -> future me will customize this portfolio to look like a (hopefully) more profesional portfolio. <br/>
 - Dates are formatted as: "DD-MM-YYYY" or "DD/MM/YYYY"
+- Portfolio still under construction.
 
 <small>`Last updated: 11/10/2020`</small>
 
