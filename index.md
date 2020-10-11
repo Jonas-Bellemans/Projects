@@ -63,3 +63,9 @@ NOTE: each table row represent a new construction site. Therefore the same drive
 
 ## Jetcar: Route visualisation
 &lt;TODO: include screenshots & description&gt;
+
+
+
+
+# School projects (2013-2017)
+&lt;TODO: include school projects&gt; (@ME: see old CV)
