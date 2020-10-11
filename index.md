@@ -51,3 +51,10 @@ Grapical overview of driver schedules duren the day. It allows the customer to s
 Overview of the driver schedule (each table represent a new construction site. Therefore the same driver might occur in multiple rows underneath eachother).
 ![Expediteurplanning](/assets/gifs/vbbeton/vbbeton-expediteur-planning.gif)
 
+
+
+## Jetcar: Portal for customers
+&lt;TODO: include screenshots & description&gt;
+
+## Jetcar: Route visualisation
+&lt;TODO: include screenshots & description&gt;
