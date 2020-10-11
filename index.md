@@ -3,7 +3,7 @@
 # Hi i'm 'Jonas Bellemans' 👋
 Welcome to my web portfolio to showcase my projects and skills. <br/> Look at this portfolio as an overview of my 'work experience'.
 
-<a href="/CV/CV_A4.pdf">Download CV</a>
+<a href="CV/CV_A4.pdf">Download CV</a>
 
 **NOTES**: 
 - Everything written below will be in english in stead of dutch as it's my second nature as a software engineer. <br/>
