@@ -3,6 +3,8 @@
 # Hi i'm 'Jonas Bellemans' 👋
 Welcome to my web portfolio to showcase my projects and skills. <br/> Look at this portfolio as an overview of my 'work experience'.
 
+![Profile_pic](assets/images/profile_pic.jpg)
+
 <a href="CV/CV_A4.pdf">Download CV</a>
 
 **NOTES**: 
