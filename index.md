@@ -45,9 +45,9 @@ Our solution proposes an local webapplication (running on their server) which gi
 
 ### Screenshots
 
-Overzicht planning chauffeurs van alle werven:
+Grapical overview of driver schedules duren the day. It allows the customer to see whether they are able to supply all construction sites with alle the drivers available.
 ![Expediteurscapaciteitsplanning](/assets/gifs/vbbeton/vbbeton-expediteurs-capaciteit-planning.gif)
 
-Overzicht planning van chauffeurs:
+Overview of the driver schedule (each table represent a new construction site. Therefore the same driver might occur in multiple rows underneath eachother).
 ![Expediteurplanning](/assets/gifs/vbbeton/vbbeton-expediteur-planning.gif)
 
