@@ -34,10 +34,14 @@ Jobs are listed from most recent to last:
 
 # Projects
 
-### Van den Braembussche: web visualizations
+## Van den Braembussche: web visualizations
 This is my most recent project (as time of writing this: 11/10/2020). <br/>
 
-#### Background
-This company delivers concrete at construction sites (up to 50/day).
+### Background
+This company delivers concrete at construction sites (up to 50 construction sites/day).
 
-The main problem is that scheduling still happens the "oldskool" way. 
+The main problem is that scheduling still happens the "oldskool" way. 1 guy plans everything out the day before. The next day the schedule completely changes and alot of "à la minute" decisions need to be made. <br/>
+
+Our solution proposes an local webapplication (running on their server) which gives a clear visualisation of the construction sites. This allows to customer the mad better estimates of the spread of the constructions sites, the number of drivers they load to supply the construction sites, ...
+
+### Screenshots
