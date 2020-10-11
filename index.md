@@ -1,7 +1,7 @@
 <br/>
 
 # Hi i'm 'Jonas Bellemans' 👋
-Welcome to my web portfolio to showcase projects and skills in better manner. <br/> Look at this portfolio a an overview of my 'work experience'.
+Welcome to my web portfolio to showcase my projects and skills. <br/> Look at this portfolio as an overview of my 'work experience'.
 
 **NOTES**: 
 - Everything written below will be in english in stead of dutch as it's my second nature as a software engineer. <br/>
@@ -39,13 +39,14 @@ This is my most recent project (as time of writing this: 11/10/2020). <br/>
 ### Background
 This company delivers concrete at construction sites (up to 50 construction sites/day).
 
-The main problem is that scheduling still happens the "oldskool" way. 1 guy schedule everything the day before. The next day the schedule completely changes and alot of "à la minute" decisions need to be made by experience. <br/>
+The main problem is that scheduling still happens the "oldskool" way. 1 guy schedules everything the day before for the next day. The next day the schedule completely changes due last minute changes and extra deliveries. This causes alot of "à la minute" decisions to be made. Those decisions are now made based on experience. <br/>
 
-Our solution proposes an local webapplication (running on their server) which gives a clear visualisation of the construction sites. This allows to customer to give better estimates of the scheduling of the constructions sites, the scheduling of the concurrent number of drivers which need to supply the construction sites, ...
+Our solution proposes an webapplication (running on their server) which gives a clear visualisation of the construction sites. This allows the customer to better understand it's 
+schedule of the constructions site deliveries, the scheduling of the concurrent number of drivers which need to supply the construction sites, ... . In the end, the customer can make better estimates and decisions.  
 
 ### Screenshots
 
-Grapical overview of driver schedules duren the day. It allows the customer to see whether they are able to supply all construction sites with alle the drivers available.
+Grapical overview of driver schedules during the day. It allows the customer to see whether they are able to supply all construction sites with all the available drivers.
 ![Expediteurscapaciteitsplanning](/assets/gifs/vbbeton/vbbeton-expediteurs-capaciteit-planning.gif)
 
 Schedule overview of the construction sites.
