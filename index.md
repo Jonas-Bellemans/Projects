@@ -8,9 +8,13 @@ Welcome to my web portfolio to showcase projects and skills in better manner. <b
 - Currently uses markdown to generate website layout -> future me will customize this portfolio to look like a (hopefully) real profesional portfolio. <br/>
 - Dates are formatted as: "DD-MM-YYYY"
 
-## Job history
+<small>`Last updated: 11/10/2020`</small>
 
 
+
+# Table of contents
+* TOC
+{:toc}
 
 # Job history
 
