@@ -4,6 +4,7 @@
 Welcome to my web portfolio to showcase my projects and skills. <br/> Look at this portfolio as an overview of my 'work experience'.
 
 ![Profile_pic](/assets/images/profile_pic.jpg)
+<img src="/portfolio/assets/images/profile_pic.jpg" alt="profile_pic" width="500" height="333">
 
 <a href="CV/CV_A4.pdf">Download CV</a>
 
