@@ -5,8 +5,6 @@ Welcome to my web portfolio to showcase my projects and skills. <br/> Look at th
 
 <img src="/portfolio/assets/images/profile-pic.jpg" alt="profile_pic" width="500">
 
-<span>site url: '{{site.url}}'</span>
-
 <a href="CV/CV_A4.pdf">Download CV</a>
 
 **NOTES**: 
